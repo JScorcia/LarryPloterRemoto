@@ -1,1 +1,1 @@
-﻿# Larry PlotterEsta serie de libros cuentan la historia de un hacker de los que hay pocos.
+﻿﻿# Larry PlotterEsta serie de libros cuentan la historia de un hacker de los que hay pocos.Aquí la firma distinta para provocar el conflicto máximo
